@@ -20,5 +20,3 @@ These are the datasets that I will be working on.
 15. Mpg
 16. Penguins
 17. Planets. 
-
-We shall dedicate 1-2 weeks to a dataset for us to get indepth info on them.
